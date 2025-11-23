@@ -1,0 +1,5 @@
+{
+  "name": "OptiCalyx Analyseur PSFV4",
+  "description": "Outil de diagnostic optique avancé pour l'astrophotographie. Analyse les Fonctions d'Étalement du Point (PSF) pour déterminer les aberrations de Zernike, les erreurs de collimation et le tilt du capteur grâce à la vision par ordinateur et l'IA.",
+  "requestFramePermissions": []
+}
